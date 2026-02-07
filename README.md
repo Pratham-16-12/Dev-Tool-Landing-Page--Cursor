@@ -1,4 +1,4 @@
-![final Dev Tool Landing Page - Cursor]([https://raw.githubusercontent.com/Pratham-16-12/Dev-Tool-Landing-Page--Cursor/refs/heads/main/images/screencapture-pratham-16-12-github-io-Dev-Tool-Landing-Page-Cursor-2026-02-07-11_32_00.png] "Optional title text")
+![final Dev Tool Landing Page - Cursor](https://raw.githubusercontent.com/Pratham-16-12/Dev-Tool-Landing-Page--Cursor/refs/heads/main/images/screencapture-pratham-16-12-github-io-Dev-Tool-Landing-Page-Cursor-2026-02-07-11_32_00.png "Optional title text")
 
 # Cursor Landing Page Clone
 
@@ -74,6 +74,7 @@ Open `index.html` in any browser.
 ---
 
 Web Dev Cohort 2026
+
 
 
 
