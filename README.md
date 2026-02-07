@@ -1,3 +1,5 @@
+![final Dev Tool Landing Page - Cursor]([/path/to/image.jpg](https://raw.githubusercontent.com/Pratham-16-12/Dev-Tool-Landing-Page--Cursor/refs/heads/main/images/screencapture-pratham-16-12-github-io-Dev-Tool-Landing-Page-Cursor-2026-02-07-11_32_00.png) "Optional title text")
+
 # Cursor Landing Page Clone
 
 A desktop-first landing page recreation of [cursor.com](https://cursor.com) for Web Dev Cohort 2026.
@@ -72,3 +74,4 @@ Open `index.html` in any browser.
 ---
 
 Web Dev Cohort 2026
+
